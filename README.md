@@ -1,4 +1,4 @@
-# Typescript
+# Everyday Types in TypeScript
 
 ### `string, number, boolean`
 
